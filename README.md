@@ -1,0 +1,2 @@
+# Asynchronous Javascript Part 5 - Sequencing Animations Assignment
+Project practicing different ways to implement asynchronous code in JavaScripte based on the [Sequencing Animations](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Sequencing_animations) writeup from MDN Web Docs and BVT's Module 3 Asynchronous Javascript Part 5 assignment. Implements animation through 3 different ways: with promise nesting (callback hell), promise chaining, and using async and await. 
